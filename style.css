@@ -1,0 +1,60 @@
+.main {
+    background-color: black;
+    width: 400px;
+    border-radius: 12px;
+    margin: 0 auto;
+    height: AUTO;
+    padding-left: 5px;
+    padding-right: 5PX;
+    padding-bottom: 5PX;
+}
+
+.input {
+    background-color: black;
+    height: 100PX;
+    padding-left: 2px;
+    border-radius: 12px;
+    margin-top: 5px;
+    width: 98%;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 30px;
+}
+
+.clearbtn {
+    color: white;
+    background-color: orangered;
+    font-size: 25px;
+    height: 50PX;
+    border-radius: 90px;
+    margin-top: 5px;
+    width: 195px;
+    margin: 1px;
+    outline: none;
+    border: none;
+}
+
+.btn {
+    color: white;
+    background-color: rgb(34, 32, 32);
+    border: none;
+    outline: none;
+    border-radius: 400px;
+    height: 50PX;
+    border-radius: 50px;
+    width: 95px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 25PX;
+}
+
+.clearbtn:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+.btn:hover {
+    background-color: lightblue;
+    color: black;
+}
